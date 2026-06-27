@@ -1,4 +1,5 @@
 # DOSW-2026-POKEDEX-MASTER-JhonatanMadero
+Autor: Jhonatan David Madero Riaño
 ![logo pequeño.png](imagenes/logo%20peque%C3%B1o.png)
 
 #  POKÉDEX MASTER
