@@ -70,10 +70,11 @@ La aplicación incluye autenticación con Gmail, gestión de perfiles, consulta 
 
 ##  Enlaces Importantes
 
-| Recurso | Enlace                                                          |
-|---------|-----------------------------------------------------------------|
-| Tablero Jira | [Ver tablero](https://your-jira-url)                            |
-| Prototipo Figma | [Ver prototipo](https://www.figma.com/your-link)                |
-| Documento de Requerimientos | [Ver documento](docs/Analisis_Requerimientos_Pokedex_DOSW.docx) |
-| Manual de Identidad | [Ver Manual](docs/Manual%20de%20identidad.docx)                 |
+| Recurso | Enlace                                                         |
+|---------|----------------------------------------------------------------|
+| Tablero Jira | [Ver tablero](https://maderojhonatan.atlassian.net/jira/software/projects/D2PJ/boards/101/backlog?atlOrigin=eyJpIjoiNmRhOWE3NDRiNTk4NGU0MGFhOTRjNGQ0MTUyYWIzM2EiLCJwIjoiaiJ9) |
+| Prototipo Figma | [Ver prototipo](https://www.figma.com/your-link)               |
+| Documento de Requerimientos | [Ver documento](docs/Analisis_Requerimientos_Pokedex_DOSW.pdf) |
+| Manual de Identidad | [ Ver Manual de identidad](docs/Manual%20de%20identidad.pdf)   |
 
+![logo.png](imagenes/logo.png)
