@@ -1,11 +1,6 @@
-# Pokédex Master — Backend (API REST)
 # DOSW-2026-POKEDEX-MASTER-JhonatanMadero
-Autor: Jhonatan David Madero Riaño
-
-![logo pequeño.png](imagenes/logo%20peque%C3%B1o.png)
-
 #  POKÉDEX MASTER
-
+![logo pequeño.png](imagenes/logo%20peque%C3%B1o.png)
 ------
 
 ![logotipo.png](imagenes/logotipo.png)
@@ -26,7 +21,7 @@ La aplicación incluye autenticación con Gmail, gestión de perfiles, consulta 
 
 ### Autenticación y Perfiles
 - Registro de nuevos usuarios
-- Inicio de sesión con Gmail
+- Inicio de sesión con Gmail 
 - Gestión de perfil personal
 
 ### Consulta de Pokémon
