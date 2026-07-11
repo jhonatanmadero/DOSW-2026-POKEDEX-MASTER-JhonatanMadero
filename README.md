@@ -21,7 +21,7 @@ La aplicación incluye autenticación con Gmail, gestión de perfiles, consulta 
 
 ### Autenticación y Perfiles
 - Registro de nuevos usuarios
-- Inicio de sesión con Gmail 
+- Inicio de sesión con Gmail
 - Gestión de perfil personal
 
 ### Consulta de Pokémon
@@ -73,7 +73,7 @@ La aplicación incluye autenticación con Gmail, gestión de perfiles, consulta 
 | Recurso | Enlace                                                         |
 |---------|----------------------------------------------------------------|
 | Tablero Jira | [Ver tablero](https://maderojhonatan.atlassian.net/jira/software/projects/D2PJ/boards/101/backlog?atlOrigin=eyJpIjoiNmRhOWE3NDRiNTk4NGU0MGFhOTRjNGQ0MTUyYWIzM2EiLCJwIjoiaiJ9) |
-| Prototipo Figma | [Ver prototipo](https://www.figma.com/design/1bEs4qe6jUmWYtwgZVnMf6/Pok%C3%A9dex-Master---Prototipo?node-id=0-1&m=dev&t=KxyMVp6dY7BCeot9-1)               |
+| Prototipo Figma | [Ver prototipo](https://www.figma.com/make/kanGfbscomexC9zlqWYanb/pokedex-master?t=kptebiTcGPCjZ2SI-1)               |
 | Documento de Requerimientos | [Ver documento](docs/Analisis_Requerimientos_Pokedex_DOSW.pdf) |
 | Manual de Identidad | [ Ver Manual de identidad](docs/Manual%20de%20identidad.pdf)   |
 

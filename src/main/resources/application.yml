@@ -2,7 +2,7 @@ spring:
   application:
     name: pokedex-master
   datasource:
-    url: jdbc:postgresql://localhost:5433/pokedex_db
+    url: jdbc:postgresql://localhost:5432/pokedex_db
     username: postgres
     password: password
     driver-class-name: org.postgresql.Driver

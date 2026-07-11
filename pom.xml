@@ -172,6 +172,7 @@
                         <exclude>**/dto/**</exclude>
                         <exclude>**/entity/**</exclude>
                         <exclude>**/document/**</exclude>
+                        <exclude>**/*MapperImpl.class</exclude>
                     </excludes>
                 </configuration>
                 <executions>
