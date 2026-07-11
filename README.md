@@ -193,3 +193,19 @@ el token de Google). Para activarlo necesitas credenciales reales:
   clases, ER) siguen pendientes — no se generaron aquí porque el plan pide hacerlos en
   Lucidchart/draw.io/Miro como entregable visual separado. Puedo ayudarte a construirlos como
   diagramas Mermaid/SVG si quieres una base de la que partir.
+
+## 7. Diagaramas
+**Diagrama de contexto (C4 – Nivel 1)**
+![contexto.png](imagenes/contexto.png)
+
+**Diagrama de contenedores (C4 – Nivel 2)**
+![contenedores.png](imagenes/contenedores.png)
+
+**Flujo de petición**
+![flujo.png](imagenes/flujo.png)
+
+**Diagrama de clases del dominio**
+![clases.png](imagenes/clases.png)
+
+**Modelo de datos: PostgreSQL + documentos MongoDB**
+![modelo de datos.png](imagenes/modelo%20de%20datos.png)
